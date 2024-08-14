@@ -1,4 +1,4 @@
-#这是我搬运的项目，这个项目不是我制作的，也没有我的贡献，它曾经在Github上发布过，但现在没了，这是原项目地址：https://github.com/sdgasdgahj/studentpad-research
+# 这是我搬运的项目，这个项目不是我制作的，也没有我的贡献，它曾经在Github上发布过，但现在没了，这是原项目地址：https://github.com/sdgasdgahj/studentpad-research
 
 # 关于'科大讯飞AI学习机(非课堂版机型)'的一些cr4cking and research
 
